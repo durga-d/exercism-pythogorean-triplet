@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-03-22T13:13:26" hostname="LAPTOP-IHDASAQK" time="10.208">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs1000" classname="PythagoreanTripletTest" time="0.016"/>
+  <testcase name="tripletsWhoseSumIs1001" classname="PythagoreanTripletTest" time="0.012"/>
+  <testcase name="tripletsWhoseSumIs108" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs840" classname="PythagoreanTripletTest" time="0.011"/>
+  <testcase name="tripletsWhoseSumIs12" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs90" classname="PythagoreanTripletTest" time="0.0"/>
+  <testcase name="tripletsWhoseSumIs30000" classname="PythagoreanTripletTest" time="10.167"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
